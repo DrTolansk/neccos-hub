@@ -25,9 +25,9 @@ A versão **5.0** marca uma etapa funcional do projeto, que **continua em estrut
 
 ## Apresentação visual
 
-Foi produzido um vídeo de apresentação com **capturas de tela da v5.0**, mostrando a evolução da interface e a proposta da ferramenta. As imagens não equivalem a uma validação completa de todas as funcionalidades em ambiente de produção.
+O vídeo de apresentação da **versão 5.0**, publicado pela Neccos Cargo no LinkedIn, utiliza **capturas de tela do sistema** para mostrar a evolução da interface e a proposta da ferramenta. Ele não representa uma validação completa das funcionalidades em produção.
 
-**Demonstração:** link a acrescentar após a publicação do vídeo.
+🎬 **[Assistir à apresentação do Neccos HUB v5.0 no LinkedIn](https://www.linkedin.com/posts/neccos-cargo_neccoscargo-neccoshub-logaedstica-activity-7525016932614623233--l_-)**
 
 ## Conexões e parcerias
 
